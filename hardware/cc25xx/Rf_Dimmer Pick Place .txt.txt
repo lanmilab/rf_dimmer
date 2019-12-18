@@ -1,0 +1,53 @@
+Designator Comment              Layer    Footprint            Center-X(mm) Center-Y(mm) Rotation Description                                       
+D4         Diode                TopLayer D_MICRO_SMP          10.500       22.550       270      600V,1A,20A,1.1V                                  
+R11        Resistor             TopLayer R_0402               24.275       10.975       270      56KOhm,1/16W,1%.                                  
+B1         Balun_2450BM15A0002E TopLayer BALUN_2450BM15A0002E 12.925       4.850        180      BALUN JTI MATCHED,2.4~2.5GHz,50ohm                
+D2         Zener Diode          TopLayer DFN1006              8.975        2.675        360      zener,3V6                                         
+L5         Inductance           TopLayer LPOW_2x1.9x1         22.275       11.400       270      100uH,180mA,20%,11MHz.                            
+D3         Zener Diode          TopLayer SOD323_NXP           4.525        22.700       270      62V,2%,300mW,450R                                 
+C20        Ceramic Capacitor    TopLayer CCER_0402            22.875       8.100        270      33pF,COG,50V,5%                                   
+C18        Ceramic Capacitor    TopLayer CCER_0402            21.575       9.175        270      X5R,20%,6.3V                                      
+C17        Ceramic Capacitor    TopLayer CCER_0402            22.400       13.650       270      10nF,X7R,25V,10%                                  
+T1         Triac                TopLayer TO-252AA             18.625       17.825       90       400V,4A,GT:3mA,Ih:5mA,Vgt:1.3V                    
+C19        Ceramic Capacitor    TopLayer CCER_0402            23.950       8.125        270      4.7nF,X7R,50V,10%                                 
+C27        Ceramic Capacitor    TopLayer CCER_0402            14.125       2.850        180      220pF,C0H,50V,5%                                  
+C3         Ceramic Capacitor    TopLayer CCER_0402            14.325       1.100        270      100nF,X5R,16V,10%                                 
+C4         Ceramic Capacitor    TopLayer CCER_0402            13.175       8.225        180      100nF,X5R,16V,10%                                 
+C5         Ceramic Capacitor    TopLayer CCER_0402            13.307       6.875        180      100nF,X5R,16V,10%                                 
+C6         Ceramic Capacitor    TopLayer CCER_0402            12.825       2.475        90       100nF,X5R,16V,10%                                 
+C8         Ceramic Capacitor    TopLayer CCER_0402            23.175       1.925        360      1uF,X5R,16V,10%                                   
+C12        Ceramic Capacitor    TopLayer X_0402               7.800        4.200        270      1pF,C0G,50V,5%                                    
+C14        Ceramic Capacitor    TopLayer X_0402               11.225       6.525        270      12pF,C0G,50V,5%                                   
+C15        Ceramic Capacitor    TopLayer X_0402               11.375       8.075        360      12pF,C0G,50V,5%                                   
+C16        Ceramic Capacitor    TopLayer CCER_0402            24.025       3.225        270      1nF,X7R,50V,10%                                   
+FB1        Ferrite Bead         TopLayer LFB_0402             10.500       2.675        360      Chip Ferrite Bead, 1kOhm (25%) @ 100MHz, 350 mA   
+U1         CPUSOC_CC2533        TopLayer VQFN-40N_6X6MM       18.650       4.850        180      ZIGBEE SOC,RF4CE,8051,32MHz,96KF,6KBR,25RX,28.5TX 
+Y1         CRY_C3E              TopLayer CRY_ABM8G_3.2x2.5    8.545        6.875        360      32MHz,30ppm,60ohm,12pF                            
+C2         Ceramic Capacitor    TopLayer CCER_0402            23.600       5.750        360      100nF,X5R,16V,10%                                 
+C1         Ceramic Capacitor    TopLayer CCER_1210            15.325       10.625       90       4.7uF,X7S,100V,10%,DF:0.1.                        
+D1         Diode                TopLayer D_MICRO_SMP          8.500        22.550       270      600V,1A,20A,1.1V                                  
+R6         Resistor             TopLayer R_0402               23.775       13.900       180      143KOhm,63mW,1%,100ppm,0402.                      
+R3         Resistor             TopLayer R_0402               12.900       10.625       180      3.3MOhm,1/16W,1%.                                 
+R5         Resistor             TopLayer R_0805               6.525        22.475       90       200kOhm,250mW,1%,400V.                            
+R4         Resistor             TopLayer R_0402               6.500        3.700        360      0Ohm,1/16W,0%.                                    
+R1         Resistor             TopLayer R_0402               11.775       2.425        90       56KOhm,1/16W,1%.                                  
+FU1        FUSE                 TopLayer FUSE_UMF250          9.000        18.650       180      2A,3.26A2s,250VAC,100A                            
+R2         Resistor             TopLayer R_0402               22.975       3.225        270      2.7KOhm,1/16W,5%.                                 
+R7         Resistor             TopLayer R_0805               23.375       15.450       180      1MOhm,0.25W,5%,400V.                              
+R10        Resistor             TopLayer R_0402               23.225       9.425        360      25.5KOhm,63W,1%,100ppm,0402.                      
+R13        Resistor             TopLayer R_0402               23.600       4.675        180      1/16W 1%                                          
+R9         Resistor             TopLayer R_0402               24.275       12.600       270      17.8KOhm,63mW,1%,100ppm,0402.                     
+R12        Resistor             TopLayer R_0805               18.625       13.900       90       1MOhm,0.25W,5%,400V.                              
+R14        Resistor             TopLayer R_0402               12.900       9.300        360      56KOhm,1/16W,1%.                                  
+R15        Resistor             TopLayer R_0402               14.700       13.200       180      8.2KOhm,63mW,1%,100ppm,0402.                      
+R16        Resistor             TopLayer R_0402               6.750        9.125        180      4.7KOhm,1/16W,1%.                                 
+R17        Resistor             TopLayer R_0402               14.875       14.500       270      8.2KOhm,63mW,1%,100ppm,0402.                      
+R18        Resistor             TopLayer R_0603               13.200       15.400       360      4R7,1/4W,5%                                       
+C7         Ceramic Capacitor    TopLayer CCER_0402            22.900       0.925        360      1uF,X5R,16V,10%                                   
+R20        Resistor             TopLayer R_0805               7.250        1.525        270      1MOhm,0.25W,5%,400V.                              
+C9         Ceramic Capacitor    TopLayer CCER_0402            10.675       4.600        0        2.2nF,X7R,50V,5%                                  
+D5         Diode                TopLayer D_MICRO_SMP          9.650        1.000        360      600V,1A,20A,1.1V                                  
+R19        Resistor             TopLayer R_0402               9.100        4.600        180      3.3MOhm,1/16W,1%.                                 
+U2         POWDCDC_TPS54061     TopLayer SON8-2400X1650TP     18.950       10.675       0        BUCK,4.5-60VIN, 0.2A, 1.1MHZ, 1%                  
+R8         Resistor             TopLayer R_0402               23.550       6.800        180      1/16W 1%                                          
+Q1         QNMOS_Z              TopLayer SOT-223              9.775        12.800       360      NMOS,1.8A,400V,3?.                                
